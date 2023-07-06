@@ -1,8 +1,9 @@
 # Continuous Intelligence and Interactive Analytics - Initial App
+Name: 
 
-- Interactive app: [cintel-02-app](https://denisecase.shinyapps.io/cintel-02-app/)
+- Interactive app: [cintel-02-app](https:// Habtom Woldu.shinyapps.io/cintel-02-app/)
 - Repository: [cintel-02-app](https://github.com/Habtom1999/cintel-02-app.git)
-- Author: [Denise Case](https://github.com/Habtom1999)
+- Author: [habtom Woldu](https://github.com/Habtom1999)
 
 In this module, we add another important tool: Python. 
 If you are new to Python, don't worry, it's relatively easy to learn and very powerful.
