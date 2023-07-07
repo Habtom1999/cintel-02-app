@@ -9,7 +9,7 @@ Each Shiny app has two parts:
 
 """
 import shinyswatch
-from shiny import *
+from shiny import*
 
 
 # TODO: Change the shinyswatch theme to morph, cosmo, darkly, flatly, sketchy (or other shinyswatch theme)
