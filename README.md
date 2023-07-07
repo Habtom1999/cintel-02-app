@@ -1,5 +1,4 @@
 # Continuous Intelligence and Interactive Analytics - Initial App
-Name: 
 
 - Interactive app: [cintel-02-app](https://habtomwoldu.shinyapps.io/cintel-02-app/)
 - Repository: [cintel-02-app](https://github.com/Habtom1999/cintel-02-app.git)
