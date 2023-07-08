@@ -4,14 +4,6 @@
 - Repository: [cintel-02-app](https://github.com/Habtom1999/cintel-02-app.git)
 - Author: [habtom Woldu](https://github.com/Habtom1999)
 
-In this module, we add another important tool: Python. 
-If you are new to Python, don't worry, it's relatively easy to learn and very powerful.
-
-🚀 Rocket Tips are for learners who want to go beyond the basics. 
-They are not required but can improve workflow, increase productivity, and make things more enjoyable.
-
------
-
 ## Prerequisites
 
 
@@ -21,14 +13,6 @@ You can sign in via GitHub for convenience.
 2 Copy this starter repository into your own GitHub account by clicking the 'Fork' button at the top of this page. 
 
 3. Install Python 3 from the [official Python website](https://www.python.org/). Add Python to your PATH during installation.
-
------
-
-## First: Modify Your README.md
-
-You have a copy of this repository in your own GitHub account.
-The README.md file is the first thing people see when they visit your repository.
-Customize your README.md file to include your name and links to your GitHub account.
 
 ### Step 1. Get the Code to your Machine
     
