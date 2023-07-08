@@ -95,3 +95,4 @@ Before pushing to GitHub, login to [shinyapps.io](https://www.shinyapps.io/) and
 
 - First archive the app.
 - Then delete the archived app.
+- Then delete the archived app.
