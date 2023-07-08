@@ -103,6 +103,8 @@ python -m pip install --upgrade -r requirements.txt
 
 It may take a while. Don't worry too much, these are VERY common activities. We'll use them often, and after several projects, they'll become routine.  
 
+
+
 -----
 
 ## Step 3: Run the App
